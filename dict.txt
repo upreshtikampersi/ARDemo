@@ -1,0 +1,10 @@
+background
+Right_Door
+Steering_Wheel
+Tail_Lamp
+Driver_Seat
+Wheel
+Bonnet
+Left_Door
+Mustang
+Side_Mirror
